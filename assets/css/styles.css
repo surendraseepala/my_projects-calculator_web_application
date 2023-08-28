@@ -1,0 +1,20 @@
+@font-face {
+    font-family: dsDigital;
+    src: url(../fonts/ds_digital/DS-DIGIT.TTF);
+}
+
+.calc_display {
+    font-family: dsDigital;
+    font-size: 80px;
+    border:5px solid #ccc;
+    text-align: right;
+    padding-right: 3px;
+}
+.inline-btns{
+    display: inline-block;
+}
+
+.custm-btn {
+    width:60px;
+    margin-top: 5px;
+}
